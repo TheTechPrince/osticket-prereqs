@@ -25,10 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install HeidiSQL and complete osTicket 
   
 <h2>Installation Steps</h2>
-<img />
-<img>![Screen Shot 2024-01-01 at 11 19 46](https://github.com/TheTechPrince/osticket-prereqs/assets/128175325/ba13a4ef-73d2-4f25-97a0-bad7a21ecbb3)
-<img/>
 
+![Screen Shot 2024-01-01 at 11 19 46](https://github.com/TheTechPrince/osticket-prereqs/assets/128175325/faeca376-3699-4eb8-9bdf-f6ecf77b0ad7)
 
 </p>
 <p>
@@ -44,7 +42,7 @@ The image above shows all the prerequisites downloaded to begin our installation
 
 <p>
 
-![image](https://github.com/TheTechPrince/osticket-prereqs/assets/137100082/c44b2489-daa9-4b1c-b60e-bb3439c20dc2)
+![Screen Shot 2024-01-01 at 11 39 10](https://github.com/TheTechPrince/osticket-prereqs/assets/128175325/aebd97b2-c691-4b31-9010-db97365c2689)
 
 </p>
 <p>
