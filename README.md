@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -25,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 <h2>Installation Steps</h2>
 <img />
-![Screen Shot 2024-01-01 at 11 20 48](https://github.com/TheTechPrince/osticket-prereqs/assets/128175325/bd6a1829-fbd1-4037-b210-314c2065612b)
+![Screen Shot 2024-01-01 at 11 19 46](https://github.com/TheTechPrince/osticket-prereqs/assets/128175325/c457c5b6-7db7-4870-b53a-33b62560a7e2)
 
 
 </p>
