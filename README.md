@@ -57,7 +57,7 @@ In this step, I registered PHP from within IIS. The steps taken are the followin
 
 <p>
 
-![image](https://github.com/TheTechPrince/osticket-prereqs/assets/137100082/770b9115-7c63-4e69-914a-8950c8ce72d6)
+![Screen Shot 2024-01-01 at 12 36 43](https://github.com/TheTechPrince/osticket-prereqs/assets/128175325/caae189e-1d45-4099-a293-9808ef8dfbda)
 
 </p>
 <p>
